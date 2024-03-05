@@ -1,0 +1,7 @@
+"No.","ID","Name","Match status","Pvalue","Metabolite ID","Metabolites","Sig. Metabolite ID","Sig. Metabolites"
+1,"ko00300","Lysine biosynthesis","1 in 34","4.98e-02","C00666; C00263","2,6-Diaminopimelic acid; Homoserine","C00666","2,6-Diaminopimelic acid"
+2,"ko00946","Degradation of flavonoids","1 in 35","0.051","C09789; C00774; C05903; C06563","Naringin; Phloretin; Kaempferol; 8-(3-Octyl-2-oxiranyl)octanoic acid","C09789","Naringin"
+3,"ko00052","Galactose metabolism","1 in 46","0.067","C00880","Galactonic acid","C00880","Galactonic acid"
+4,"ko00051","Fructose and mannose metabolism","1 in 52","0.075","C00392","Mannitol","C00392","Mannitol"
+5,"ko00470","D-Amino acid metabolism","1 in 56","0.081","C00666; C00993","2,6-Diaminopimelic acid; Ala-Ala","C00666","2,6-Diaminopimelic acid"
+6,"ko00680","Methane metabolism","1 in 83","0.118","C01046","N-Methylglutamic acid","C01046","N-Methylglutamic acid"

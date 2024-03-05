@@ -1,0 +1,373 @@
+"HMDBID","KEGGID","Name","Origin","Links","Diff"
+"HMDB0029683","C10759","(15:3)-Anacardic acid","Food related","Food related(FooDB:FDB000869 HMDB:HMDB0029683)",0
+NA,NA,"(2-oxo-2,3-dihydro-1H-indol-3-yl)acetic acid","Unknown",NA,0
+"HMDB0248946","D01594","[(1-Benzyl-1H-indazol-3-yl)oxyacetic acid","Drug related","Drug related(DrugBank:DB13501 KEGG:D01594)",0
+"HMDB0002123","C16361","1,3,7-Trimethyluric acid","Microbiota; Food related","Microbiota(KEGG:C16361); Food related(FooDB:FDB030187 HMDB:HMDB0002123)",0
+"HMDB0245045","C02497","1,4-Butynediol","Unknown",NA,0
+"HMDB0002712","C07326","1,5-Anhydrosorbitol","Food related","Food related(FooDB:FDB023050)",0
+"HMDB0011103","C16356","1,7-Dimethyluric acid","Host; Microbiota; Food related","Microbiota(KEGG:C16356); Food related(FooDB:FDB027886)",0
+"HMDB0244272","D07666","10-Hydroxydecanoic acid","Drug related","Drug related(KEGG:D07666)",0
+"HMDB0000328",NA,"12-Ketodeoxycholic acid","Food related","Food related(FooDB:FDB021953 HMDB:HMDB0000328)",0
+NA,NA,"13-Hydroxy-9Z,11E-octadecadienoic acid","Unknown",NA,1
+NA,NA,"1-Methylpseudouridine","Unknown",NA,0
+"HMDB0010738","C16358","1-Methylxanthine","Host; Microbiota; Food related","Microbiota(KEGG:C16358); Food related(FooDB:FDB027885)",1
+"HMDB0245045","C02497","1-Palmitoyl-2-hydroxy-sn-glycero-3-phospho-(1-rac-glycerol)","Unknown",NA,0
+"HMDB0244272","C02774","2,3-Dihydroxybenzoic acid A","Unknown",NA,0
+"HMDB0001370","C00666","2,6-Diaminopimelic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:26dap_LL HMDB:HMDB0001370 KEGG:C00666); Food related(FooDB:FDB030951 HMDB:HMDB0001370); Drug related(DrugBank:DB03590)",1
+"HMDB0240311","C06342","2,8-Quinolinediol","Unknown",NA,0
+NA,NA,"2-[4-(Acetylamino)phenyl-4-quinolinecarboxylic acid","Unknown",NA,0
+NA,NA,"2-{[2-Hydroxy-1,1-bis(hydroxymethyl)ethylammonio}ethanesulfonate","Unknown",NA,1
+"HMDB0060374","C05353","2-Amino-3-methoxybenzoic acid","Drug related","Drug related(DrugBank:DB02371)",0
+"HMDB0060374","C05831","2-Aminonicotinic acid","Unknown",NA,0
+NA,"C01987","2-Aminophenol","Microbiota; Drug related","Microbiota(KEGG:C01987); Drug related(DrugBank:DB01726)",0
+"HMDB0000014","C00881","2-Deoxycytidine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:dcyt ChEBI:15698 KEGG:C00881,D12465); Food related(FooDB:FDB021871 HMDB:HMDB0000014); Drug related(DrugBank:DB02594 KEGG:C00881,D12465)",0
+"HMDB0003224","C01801","2-Deoxyribose","Host; Microbiota; Food related","Microbiota(BIGG:drib ChEBI:28816 KEGG:C01801); Food related(FooDB:FDB023126)",1
+"HMDB0000012","C00526","2-Deoxyuridine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:duri ChEBI:16450 KEGG:C00526); Food related(FooDB:FDB021870 HMDB:HMDB0000012); Drug related(DrugBank:DB02256)",0
+NA,NA,"2-Dodecoxyethyl hydrogen sulfate","Unknown",NA,0
+"HMDB0034170","C06202","2-Hydroxybenzaldehyde","Microbiota; Food related","Microbiota(KEGG:C06202); Food related(FooDB:FDB012456 HMDB:HMDB0034170 T3DB:T3D4892)",0
+"HMDB0002641","C01772","2-Hydroxycinnamic acid","Food related; Drug related","Food related(FooDB:FDB011258 HMDB:HMDB0002641); Drug related(DrugBank:DB01650)",1
+"HMDB0000729",NA,"2-Hydroxyisobutyric acid","Food related","Food related(FooDB:FDB022207)",1
+"HMDB0059710",NA,"2-Hydroxynicotinic acid","Unknown",NA,0
+"HMDB0031057",NA,"2-Hydroxypalmitic acid","Food related","Food related(HMDB:HMDB0031057)",0
+"HMDB0000669","C05852","2-Hydroxyphenylacetic acid","Host; Microbiota; Food related","Microbiota(BIGG:2hyoxplac ChEBI:28478 HMDB:HMDB0000669 KEGG:C05852); Food related(FooDB:FDB012331 HMDB:HMDB0000669)",0
+NA,"C06338","2-Hydroxyquinoline","Drug related","Drug related(DrugBank:DB04745)",1
+NA,"C06338","2-Ketogluconic acid","Drug related","Drug related(DrugBank:DB04745)",0
+"HMDB0000422",NA,"2-Methylglutaric acid","Food related","Food related(FooDB:FDB022036 HMDB:HMDB0000422)",0
+"HMDB0000783",NA,"2-Propanamidoacetic acid","Food related","Food related(FooDB:FDB022240)",1
+NA,"C06473","3-(1-Pyrazolyl)-alanine","Microbiota","Microbiota(BIGG:2dhglcn ChEBI:27469 KEGG:C06473)",0
+"HMDB0000375","C11457","3-(3-Hydroxyphenyl)propionic acid","Microbiota; Food related","Microbiota(BIGG:3hpppn ChEBI:1427 HMDB:HMDB0000375 KEGG:C11457); Food related(FooDB:FDB021993)",0
+"HMDB0000397","C00196","3-(Hydroxymethyl)phenol","Microbiota; Food related; Drug related","Microbiota(BIGG:23dhb KEGG:C00196); Food related(FooDB:FDB012200 HMDB:HMDB0000397); Drug related(DrugBank:DB01672)",0
+"HMDB0001856","C00230","3,4-Dihydroxybenzoic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:34dhbz ChEBI:36062,36241 HMDB:HMDB0001856 KEGG:C00230); Food related(FooDB:FDB031135 HMDB:HMDB0001856); Drug related(DrugBank:DB03946)",0
+"HMDB0001336","C01161","3,4-Dihydroxyphenylacetic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:34dhpacet HMDB:HMDB0001336 KEGG:C01161); Food related(FooDB:FDB000316 HMDB:HMDB0001336); Drug related(DrugBank:DB01702)",0
+NA,"C01162","3-[3-Tert-butylsulfanyl-1-[(4-chlorophenyl)methyl-5-propan-2-ylindol-2-yl-2,2-dimethylpropanoic acid","Unknown",NA,0
+"HMDB0061112",NA,"3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid","Food related; Drug related","Food related(FooDB:FDB093609 HMDB:HMDB0061112 T3DB:T3D4197); Drug related(DrugBank:DB07517)",0
+NA,NA,"3-Deoxyuridine","Unknown",NA,0
+"HMDB0000428",NA,"3-Hydroxyglutaric acid","Food related; Drug related","Food related(FooDB:FDB022040 T3DB:T3D4357); Drug related(DrugBank:DB04594)",0
+"HMDB0000440","C05593","3-Hydroxyphenylacetic acid","Microbiota; Food related","Microbiota(BIGG:3hoxpac HMDB:HMDB0000440 KEGG:C05593); Food related(FooDB:FDB022047)",0
+"HMDB0000700","C01013","3-Hydroxypropanoic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:3hpp HMDB:HMDB0000700 KEGG:C01013); Food related(FooDB:FDB030432 HMDB:HMDB0000700 T3DB:T3D4304); Drug related(DrugBank:DB03688)",0
+"HMDB0000197","C00954","3-Indoleacetic acid","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ind3ac HMDB:HMDB0000197 KEGG:C00954); Food related(FooDB:FDB030920 HMDB:HMDB0000197 T3DB:T3D4152); Drug related(DrugBank:DB07950); Environment(T3DB:T3D4152)",0
+"HMDB0002302",NA,"3-Indolepropionic acid","Microbiota; Food related; Drug related","Microbiota(HMDB:HMDB0002302); Food related(FooDB:FDB000941 HMDB:HMDB0002302); Drug related(DrugBank:DB02758)",0
+"HMDB0059712","C03351","3-Isochromanone","Food related","Food related(FooDB:FDB017666 HMDB:HMDB0038331)",0
+"HMDB0000555",NA,"3-Methyladipic acid","Food related","Food related(FooDB:FDB022115 HMDB:HMDB0000555)",0
+"HMDB0000752",NA,"3-Methylglutaric acid","Food related","Food related(FooDB:FDB022224 HMDB:HMDB0000752)",0
+"HMDB0000479","C01152","3-Methylhistidine","Host; Microbiota; Food related","Microbiota(BIGG:NPmehis ChEBI:27596); Food related(FooDB:FDB093613)",0
+"HMDB0006038",NA,"3-O-Methylguanosine","Food related","Food related(FooDB:FDB023814)",0
+NA,NA,"3-O-Methyluridine","Unknown",NA,1
+NA,NA,"4,5,7-Trihydroxyisoflavone","Unknown",NA,0
+NA,"C07728","4,6-Dihydroxypyrimidine","Unknown",NA,1
+"HMDB0061881","C02129","4-Acetylbutyric acid","Food related","Food related(HMDB:HMDB0061881)",1
+"HMDB0000500","C00156","4-Hydroxybenzoic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:4hbz ChEBI:17879,30763 HMDB:HMDB0000500 KEGG:C00156); Food related(FooDB:FDB010508 HMDB:HMDB0000500); Drug related(DrugBank:DB04242)",0
+"HMDB0013678",NA,"4-Hydroxyhippuric acid","Microbiota; Food related","Microbiota(HMDB:HMDB0013678); Food related(FooDB:FDB029984)",0
+"HMDB0061881","C02129","4-Hydroxymandelonitrile","Food related","Food related(HMDB:HMDB0061881)",0
+"HMDB0246466","C00650","4-Hydroxyquinoline","Unknown",NA,0
+"HMDB0035268","C06578","4-Isopropylbenzoic acid","Microbiota; Food related","Microbiota(ChEBI:25822,28122 KEGG:C06578); Food related(FooDB:FDB013929 HMDB:HMDB0035268)",0
+"HMDB0246466","C06343","4-Pregnen-17.alpha., 20.alpha.-diol-3-one","Unknown",NA,0
+"HMDB0000017","C00847","4-Pyridoxic acid","Host; Microbiota; Food related","Microbiota(KEGG:C00847); Food related(FooDB:FDB021874)",0
+"HMDB0246588",NA,"4-Thiouridine","Unknown",NA,0
+"HMDB0011653","C04518","5-(Acetylamino)-2-hydroxybenzoic acid","Host; Food related","Food related(FooDB:FDB028344 HMDB:HMDB0011653)",0
+"HMDB0014389","C07138","5-Aminosalicylic acid","Drug related","Drug related(DrugBank:DB00244 KEGG:C07138,D00377)",0
+"HMDB0000472","C00643","5-Hydroxytryptophan","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C00643,D07339); Food related(FooDB:FDB006231 HMDB:HMDB0000472 T3DB:T3D4298); Drug related(DrugBank:DB02959 KEGG:C00643,D07339 T3DB:T3D4298)",0
+"HMDB0000982",NA,"5-Methylcytidine","Food related","Food related(FooDB:FDB022351)",0
+"HMDB0000884",NA,"5-Methyluridine","Microbiota; Food related","Microbiota(ChEBI:45996); Food related(FooDB:FDB022298)",0
+NA,NA,"6,6-Dihydroxy-5,5-dimethoxybiphenyl-3,3-dicarboxylic acid","Unknown",NA,1
+"HMDB0030819","C09263","6,7-Dihydroxycoumarin","Food related","Food related(FooDB:FDB002775 HMDB:HMDB0030819)",0
+"HMDB0033585",NA,"6-Methyl-1,2,3-oxathiazin-4(3H)-one 2,2-dioxide","Food related; Drug related","Food related(FooDB:FDB011661 HMDB:HMDB0033585); Drug related(DrugBank:DB16868)",0
+"HMDB0003217","C06563","8-(3-Octyl-2-oxiranyl)octanoic acid","Microbiota; Food related; Drug related; Environment","Microbiota(ChEBI:28088 KEGG:C06563,D11680); Food related(FooDB:FDB011828 HMDB:HMDB0003217 T3DB:T3D3963); Drug related(DrugBank:DB01645 KEGG:C06563,D11680); Environment(HMDB:HMDB0003217 T3DB:T3D3963)",0
+"HMDB0004704","C14828","9,10-Dihydroxy-12Z-octadecenoic acid","Food related","Food related(FooDB:FDB023415 HMDB:HMDB0004704)",0
+"HMDB0035140","C06082","Abscisic acid","Food related","Food related(FooDB:FDB013776 HMDB:HMDB0035140)",0
+"HMDB0247933","C03248","Acetylenedicarboxylic acid","Unknown",NA,0
+"HMDB0000072","C00417","Aconitic acid","Host; Microbiota; Food related","Microbiota(BIGG:acon_C ChEBI:16383,32805 KEGG:C00417); Food related(FooDB:FDB008306 HMDB:HMDB0000072)",1
+"HMDB0000034","C00147","Adenine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:ade ChEBI:16708 KEGG:C00147,D00034); Food related(FooDB:FDB012266 HMDB:HMDB0000034 T3DB:T3D4279); Drug related(DrugBank:DB00173 KEGG:C00147,D00034 T3DB:T3D4279)",0
+"HMDB0000448","C06104","Adipic acid","Microbiota; Food related; Drug related; Environment","Microbiota(HMDB:HMDB0000448 KEGG:C06104,D08839); Food related(FooDB:FDB008309 HMDB:HMDB0000448); Drug related(KEGG:C06104,D08839); Environment(HMDB:HMDB0000448)",0
+"HMDB0003459","C00993","Ala-Ala","Microbiota; Food related","Microbiota(BIGG:alaala ChEBI:16576 HMDB:HMDB0003459 KEGG:C00993); Food related(FooDB:FDB003740 HMDB:HMDB0003459)",0
+"HMDB0028690",NA,"Ala-Ile","Food related","Food related(FooDB:FDB111749)",0
+"HMDB0028691",NA,"Ala-Leu","Food related","Food related(FooDB:FDB111750)",0
+"HMDB0000161","C00041","Alanine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ala__L ChEBI:16977 KEGG:C00041,D00012); Food related(FooDB:FDB000556 HMDB:HMDB0000161); Drug related(DrugBank:DB00160 KEGG:C00041,D00012); Environment(HMDB:HMDB0000161)",0
+"HMDB0028700",NA,"Ala-Val","Food related","Food related(FooDB:FDB111757)",0
+"HMDB0014659","C01779","Albendazole","Drug related; Environment","Drug related(DrugBank:DB00518 KEGG:C01779,D00134 T3DB:T3D3476); Environment(T3DB:T3D3476)",0
+"HMDB0002404",NA,"alpha-Hydroxyhippuric acid","Food related","Food related(FooDB:FDB022997)",0
+"HMDB0033896",NA,"Anacardic acid diene","Food related","Food related(FooDB:FDB012091 HMDB:HMDB0033896)",0
+"HMDB0000646","C02479","Arabinose","Microbiota; Food related; Drug related","Microbiota(HMDB:HMDB0000646); Food related(FooDB:FDB012306 HMDB:HMDB0000646); Drug related(DrugBank:DB03246)",0
+"HMDB0000568","C01904","Arabitol","Microbiota; Food related","Microbiota(BIGG:abt__D HMDB:HMDB0000568 KEGG:C01904); Food related(FooDB:FDB001475 HMDB:HMDB0000568)",0
+NA,NA,"Arachidonyl dopamine","Unknown",NA,0
+"HMDB0000517","C00062","Arginine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:arg__L ChEBI:16467 KEGG:C00062,D02982); Food related(FooDB:FDB002257 HMDB:HMDB0000517 T3DB:T3D4289); Drug related(DrugBank:DB00125 KEGG:C00062,D02982 T3DB:T3D4289); Environment(HMDB:HMDB0000517 T3DB:T3D4289)",0
+"HMDB0000168","C00152","Asparagine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:asn__L ChEBI:17196 KEGG:C00152); Food related(FooDB:FDB000787 HMDB:HMDB0000168 T3DB:T3D4362); Drug related(DrugBank:DB00174 T3DB:T3D4362); Environment(HMDB:HMDB0000168)",0
+"HMDB0000191","C00049","Aspartic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:asp__L ChEBI:17053 KEGG:C00049,D00013); Food related(FooDB:FDB012567 HMDB:HMDB0000191); Drug related(DrugBank:DB00128 KEGG:C00049,D00013)",0
+"HMDB0000706",NA,"Asp-Phe","Food related","Food related(FooDB:FDB002275 HMDB:HMDB0000706)",0
+"HMDB0001870","C00539","Benzoic acid","Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:bz ChEBI:16150,30746 HMDB:HMDB0001870 KEGG:C00180,C00539,D00038); Food related(FooDB:FDB008739 HMDB:HMDB0001870 T3DB:T3D4785); Drug related(DrugBank:DB03793 KEGG:C00180,C00539,D00038); Environment(HMDB:HMDB0001870 T3DB:T3D4785)",0
+NA,"C18347","Benzylsuccinic acid","Microbiota","Microbiota(KEGG:C18347)",0
+"HMDB0000754","C20827","beta-Hydroxyisovaleric acid","Food related; Drug related","Food related(FooDB:FDB022225 HMDB:HMDB0000754 T3DB:T3D4263); Drug related(DrugBank:DB15344)",0
+"HMDB0010731",NA,"beta-Hydroxymyristic acid","Food related; Drug related","Food related(FooDB:FDB027878 HMDB:HMDB0010731); Drug related(DrugBank:DB02767)",0
+"HMDB0000808",NA,"Butyrylglycine","Food related","Food related(FooDB:FDB022256)",0
+"HMDB0247617","C19418","Carboxyibuprofen","Microbiota; Food related","Microbiota(KEGG:C19418); Food related(FooDB:FDB030637)",0
+"HMDB0000033","C00386","Carnosine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(KEGG:C00386); Food related(FooDB:FDB012937 HMDB:HMDB0000033); Drug related(DrugBank:DB11695); Environment(HMDB:HMDB0000033)",0
+NA,"C12271","Cellobiose B","Unknown",NA,0
+NA,"C07966","Cerivastatin","Drug related","Drug related(DrugBank:DB00439 KEGG:C07966,D07661)",0
+"HMDB0002586",NA,"Chenodeoxycholic acid 3-sulfate","Microbiota; Food related","Microbiota(HMDB:HMDB0002586); Food related(FooDB:FDB023031 HMDB:HMDB0002586)",0
+"HMDB0000653","C18043","Cholesterol 3-sulfate","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C18043); Food related(FooDB:FDB022164 HMDB:HMDB0000653); Drug related(DrugBank:DB01990)",0
+"HMDB0000619","C00695","Cholic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:cholate KEGG:C00695,D10699); Food related(FooDB:FDB012810 HMDB:HMDB0000619 T3DB:T3D4343); Drug related(DrugBank:DB02659 KEGG:C00695,D10699)",0
+"HMDB0000634","C02226","Citraconic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:citac KEGG:C02226); Food related(FooDB:FDB022155 HMDB:HMDB0000634); Drug related(DrugBank:DB04734)",0
+"HMDB0000904","C00327","Citrulline","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:citr__L ChEBI:16349 KEGG:C00327,D07706); Food related(FooDB:FDB011841 HMDB:HMDB0000904 T3DB:T3D4295); Drug related(DrugBank:DB00155 KEGG:C00327,D07706 T3DB:T3D4295)",0
+"HMDB0141782","C02666","Coniferylaldehyde","Microbiota; Food related","Microbiota(BIGG:conialdh); Food related(FooDB:FDB001513)",0
+"HMDB0250451","C08431","Cordycepin","Drug related","Drug related(DrugBank:DB12156)",0
+"HMDB0000015","C05488","Cortodoxone","Host; Food related; Drug related","Food related(FooDB:FDB021872 HMDB:HMDB0000015); Drug related(KEGG:C05488,D03595)",0
+"HMDB0000562","C00791","Creatinine","Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:creat KEGG:C00791,D03600); Food related(FooDB:FDB021814 HMDB:HMDB0000562); Drug related(DrugBank:DB11846 KEGG:C00791,D03600); Environment(HMDB:HMDB0000562)",0
+"HMDB0031340","C02824","Cyclohexanesulfamic acid","Food related; Drug related","Food related(HMDB:HMDB0031340); Drug related(KEGG:C02824,D02442)",0
+"HMDB0002757","C00506","Cysteic Acid","Host; Microbiota; Food related","Microbiota(BIGG:Lcyst KEGG:C00506); Food related(FooDB:FDB023061)",0
+"HMDB0000089","C00475","Cytidine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:cytd ChEBI:17562 KEGG:C00475,D07769); Food related(FooDB:FDB021809 HMDB:HMDB0000089); Drug related(DrugBank:DB02097 KEGG:C00475,D07769)",0
+"HMDB0000095","C00055","Cytidine-5-monophosphate","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:cmp ChEBI:17361,181630 KEGG:C00055,G10621); Food related(FooDB:FDB030736 HMDB:HMDB0000095); Drug related(DrugBank:DB03403)",0
+"HMDB0003312","C10208","Daidzein","Host; Microbiota; Food related; Drug related","Microbiota(ChEBI:28197 KEGG:C10208); Food related(FooDB:FDB002608 HMDB:HMDB0003312 T3DB:T3D3964); Drug related(DrugBank:DB13182)",0
+NA,"C13154","Dehydrocholic acid","Drug related","Drug related(DrugBank:DB11622 KEGG:C13154,D01693)",0
+"HMDB0001032","C04555","Dehydroepiandrosterone sulfate","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C04555); Food related(FooDB:FDB022381 HMDB:HMDB0001032 T3DB:T3D4242); Drug related(DrugBank:DB05804)",0
+"HMDB0038457","C16952","Dihydrocapsaicin","Food related","Food related(FooDB:FDB017816 HMDB:HMDB0038457)",0
+"HMDB0000528","C00337","Dihydroorotic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:dhor__S KEGG:C00337); Food related(FooDB:FDB022096); Drug related(DrugBank:DB02129)",0
+"HMDB0000623","C02678","Dodecanedioic acid","Food related","Food related(FooDB:FDB022148 HMDB:HMDB0000623)",0
+"HMDB0251662","C13776","E-4031","Unknown",NA,0
+"HMDB0006101","C18165","Enterolactone","Food related","Food related(FooDB:FDB002488 HMDB:HMDB0006101 T3DB:T3D3967)",0
+"HMDB0001871","C09727","Epicatechin","Food related; Drug related","Food related(FooDB:FDB003761 HMDB:HMDB0001871); Drug related(DrugBank:DB12039)",1
+"HMDB0013230",NA,"Epitestosterone sulfate","Food related","Food related(FooDB:FDB029347 HMDB:HMDB0013230)",0
+"HMDB0031233",NA,"Ethyl sulfate","Food related","Food related(HMDB:HMDB0031233)",0
+NA,NA,"Ethyl-beta-glucuronide","Unknown",NA,0
+"HMDB0000622",NA,"Ethylmalonic acid","Food related","Food related(FooDB:FDB022147 HMDB:HMDB0000622 T3DB:T3D4461)",0
+"HMDB0015108","D01966","Ezetimibe","Drug related","Drug related(DrugBank:DB00973 KEGG:D01966)",0
+"HMDB0000055","C06422","FAHFA 36:2","Microbiota; Food related","Microbiota(BIGG:cellb HMDB:HMDB0000055 KEGG:C06422,G00289); Food related(FooDB:FDB007497 HMDB:HMDB0000055)",0
+"HMDB0000954","C01494","Ferulic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:fer ChEBI:17620,193350 HMDB:HMDB0000954 KEGG:C01494); Food related(FooDB:FDB012802 HMDB:HMDB0000954); Drug related(DrugBank:DB07767)",0
+"HMDB0001248","C00016","Flavin adenine dinucleotide","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:fad ChEBI:16238 KEGG:C00016,D00005); Food related(FooDB:FDB022511 HMDB:HMDB0001248); Drug related(DrugBank:DB03147 KEGG:C00016,D00005)",0
+"HMDB0000565","C00880","Galactonic acid","Microbiota; Food related","Microbiota(BIGG:galctn__D KEGG:C00880); Food related(FooDB:FDB022122 T3DB:T3D4960)",1
+"HMDB0000112","C00334","gamma-Aminobutyric acid","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:4abut ChEBI:16865,30566 HMDB:HMDB0000112 KEGG:C00334,D00058); Food related(FooDB:FDB030489 HMDB:HMDB0000112 T3DB:T3D4250); Drug related(DrugBank:DB02530 KEGG:C00334,D00058); Environment(HMDB:HMDB0000112)",1
+"HMDB0011171",NA,"gamma-Glutamylleucine","Food related","Food related(FooDB:FDB003617 HMDB:HMDB0011171)",0
+"HMDB0034367",NA,"gamma-Glutamylmethionine","Food related","Food related(FooDB:FDB012741 HMDB:HMDB0034367)",0
+"HMDB0011741",NA,"gamma-Glutamyltyrosine","Food related","Food related(FooDB:FDB000717 HMDB:HMDB0011741)",0
+"HMDB0000152","C00628","Gentisinic acid","Host; Microbiota; Food related","Microbiota(ChEBI:17189 HMDB:HMDB0000152 KEGG:C00628); Food related(FooDB:FDB000844 HMDB:HMDB0000152)",0
+"HMDB0141782","C02666","Ginkgolic acid I","Microbiota; Food related","Microbiota(BIGG:conialdh); Food related(FooDB:FDB001513)",0
+NA,"C08431","Ginkgolic acid II","Drug related","Drug related(DrugBank:DB12156)",0
+"HMDB0000122","C00221","Glucose","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:glc__D KEGG:C00221,D00009); Food related(FooDB:FDB011824 HMDB:HMDB0000122); Drug related(DrugBank:DB02379 KEGG:C00221,D00009)",0
+"HMDB0000252","C00319","Glucuronic acid A","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C00319); Food related(FooDB:FDB005463 HMDB:HMDB0000252); Drug related(DrugBank:DB03203)",1
+"HMDB0000528","C00337","Glucuronic acid B","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:dhor__S KEGG:C00337); Food related(FooDB:FDB022096); Drug related(DrugBank:DB02129)",0
+"HMDB0000148","C00025","Glutamic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:glu__L ChEBI:16015 KEGG:C00025,D00007); Food related(FooDB:FDB012535 HMDB:HMDB0000148 T3DB:T3D4296); Drug related(DrugBank:DB00142 KEGG:C00025,D00007)",1
+"HMDB0000641","C00064","Glutamine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:gln__L ChEBI:18050 KEGG:C00064,D00015); Food related(FooDB:FDB030965 HMDB:HMDB0000641 T3DB:T3D4319); Drug related(DrugBank:DB00130 KEGG:C00064,D00015 T3DB:T3D4319); Environment(HMDB:HMDB0000641 T3DB:T3D4319)",0
+"HMDB0000661","C00489","Glutaric acid","Microbiota; Food related; Drug related","Microbiota(BIGG:glutar HMDB:HMDB0000661 KEGG:C00489); Food related(FooDB:FDB001477 HMDB:HMDB0000661 T3DB:T3D4359); Drug related(DrugBank:DB03553)",0
+"HMDB0028829",NA,"Glu-Thr","Food related","Food related(FooDB:FDB111871)",0
+NA,NA,"Glu-Val-Phe","Unknown",NA,0
+"HMDB0001051","C02154","Glyceraldehyde","Food related; Drug related","Food related(FooDB:FDB022392 T3DB:T3D4964); Drug related(DrugBank:DB02536)",0
+"HMDB0000139","C00258","Glyceric acid","Host; Microbiota; Food related","Microbiota(BIGG:glyc__R HMDB:HMDB0000139 KEGG:C00258); Food related(FooDB:FDB012242 HMDB:HMDB0000139 T3DB:T3D4330)",1
+"HMDB0000138","C01921","Glycocholic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:glyc__R HMDB:HMDB0000138 KEGG:C01921); Food related(FooDB:FDB012346 HMDB:HMDB0000138); Drug related(DrugBank:DB02691)",0
+"HMDB0000631","C05464","Glycodeoxycholic acid","Microbiota; Food related","Microbiota(HMDB:HMDB0000631); Food related(FooDB:FDB022152 HMDB:HMDB0000631)",0
+"HMDB0028853",NA,"Gly-Tyr","Food related; Drug related","Food related(FooDB:FDB111885); Drug related(DrugBank:DB15991)",0
+NA,NA,"Gly-Tyr-Ala","Unknown",NA,0
+"HMDB0000132","C00242","Guanine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:gua ChEBI:16235 KEGG:C00242); Food related(FooDB:FDB004222 HMDB:HMDB0000132); Drug related(DrugBank:DB02377)",0
+"HMDB0000133","C00387","Guanosine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:gsn ChEBI:16750 KEGG:C00387); Food related(FooDB:FDB003632 HMDB:HMDB0000133); Drug related(DrugBank:DB02857)",0
+NA,NA,"Guanosine-3,5-cyclic monophosphate","Unknown",NA,0
+"HMDB0253041","D07202","Halometasone","Drug related","Drug related(KEGG:D07202)",1
+"HMDB0033897","C10794","Histamine-trifluoromethyltoluide","Food related","Food related(FooDB:FDB012092 HMDB:HMDB0033897)",0
+"HMDB0000177","C00135","Histidine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:his__L ChEBI:15971 KEGG:C00135,D00032); Food related(FooDB:FDB011856 HMDB:HMDB0000177 T3DB:T3D4363); Drug related(DrugBank:DB00117 KEGG:C00135,D00032 T3DB:T3D4363); Environment(HMDB:HMDB0000177 T3DB:T3D4363)",0
+"HMDB0000130","C00544","Homogentisic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:hgentis HMDB:HMDB0000130 KEGG:C00544); Food related(FooDB:FDB030907 HMDB:HMDB0000130 T3DB:T3D4287); Drug related(DrugBank:DB08327)",0
+"HMDB0000719","C00263","Homoserine","Microbiota; Food related; Drug related","Microbiota(BIGG:hom__L ChEBI:15699 HMDB:HMDB0000719 KEGG:C00263); Food related(FooDB:FDB006683 HMDB:HMDB0000719); Drug related(DrugBank:DB04193)",0
+"HMDB0000118","C05582","Homovanillic acid","Host; Microbiota; Food related","Microbiota(HMDB:HMDB0000118 KEGG:C05582); Food related(FooDB:FDB001783 HMDB:HMDB0000118)",0
+"HMDB0000157","C00262","Hypoxanthine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:hxan ChEBI:17368 KEGG:C00262); Food related(FooDB:FDB003949 HMDB:HMDB0000157 T3DB:T3D4150); Drug related(DrugBank:DB04076)",0
+"HMDB0028910",NA,"Ile-Ile","Microbiota; Food related","Microbiota(ChEBI:74067); Food related(FooDB:FDB111939)",0
+"HMDB0000671","C02043","Indolelactic acid","Microbiota; Food related; Drug related","Microbiota(HMDB:HMDB0000671); Food related(FooDB:FDB022174); Drug related(DrugBank:DB07060)",1
+"HMDB0000682",NA,"Indoxyl sulfate","Microbiota; Food related; Drug related; Environment","Microbiota(HMDB:HMDB0000682); Food related(FooDB:FDB022179 T3DB:T3D4158); Drug related(DrugBank:DB07992); Environment(T3DB:T3D4158)",1
+"HMDB0000195","C00294","Inosine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:ins ChEBI:17596 KEGG:C00294,D00054); Food related(FooDB:FDB011802 HMDB:HMDB0000195); Drug related(DrugBank:DB04335 KEGG:C00294,D00054)",0
+"HMDB0000172","C00407","Isoleucine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ile__L ChEBI:17191 KEGG:C00407,D00065); Food related(FooDB:FDB012397 HMDB:HMDB0000172 T3DB:T3D4364); Drug related(DrugBank:DB00167 KEGG:C00407,D00065 T3DB:T3D4364); Environment(HMDB:HMDB0000172 T3DB:T3D4364)",0
+NA,NA,"Isomaltose A","Unknown",NA,0
+"HMDB0002655","C10084","Isorhamnetin","Food related; Drug related","Food related(FooDB:FDB000604 HMDB:HMDB0002655); Drug related(DrugBank:DB16767)",0
+"HMDB0000704","C03975","Isoxanthopterin","Food related","Food related(FooDB:FDB005583 HMDB:HMDB0000704)",0
+"HMDB0005801","C05903","Kaempferol","Microbiota; Food related; Drug related","Microbiota(ChEBI:28499 KEGG:C05903); Food related(FooDB:FDB000633 HMDB:HMDB0005801 T3DB:T3D4795); Drug related(DrugBank:DB01852)",0
+NA,NA,"Ketoisovaleric acid","Unknown",NA,0
+"HMDB0000715","C01717","Kynurenic acid","Microbiota; Food related; Drug related","Microbiota(ChEBI:18344); Food related(FooDB:FDB022200 T3DB:T3D4160); Drug related(DrugBank:DB11937)",0
+"HMDB0000127","C00191","Lactose A","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:glcur KEGG:C00191); Food related(FooDB:FDB021897 HMDB:HMDB0000127); Drug related(DrugBank:DB03156)",0
+"HMDB0000740","C07064","Lactulose","Food related; Drug related","Food related(FooDB:FDB022215); Drug related(DrugBank:DB00581 KEGG:C07064,D00352,G03573)",0
+"HMDB0028925",NA,"Leu-Asp","Food related","Food related(FooDB:FDB098210)",0
+"HMDB0000127","C00191","Levocetirizine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:glcur KEGG:C00191); Food related(FooDB:FDB021897 HMDB:HMDB0000127); Drug related(DrugBank:DB03156)",0
+"HMDB0029519","C09762","Liquiritigenin","Microbiota; Food related; Drug related","Microbiota(ChEBI:28777); Food related(FooDB:FDB000655 HMDB:HMDB0029519); Drug related(DrugBank:DB03601)",0
+"HMDB0000684","C00328","L-Kynurenine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:Lkynr ChEBI:16946 KEGG:C00328); Food related(FooDB:FDB022181 HMDB:HMDB0000684); Drug related(DrugBank:DB02070)",0
+"HMDB0001314","C00942","LPE 14:0","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:35cgmp ChEBI:16356 KEGG:C00942); Food related(FooDB:FDB030764 HMDB:HMDB0001314); Drug related(DrugBank:DB02315)",0
+NA,"D07202","LPE 18:1","Drug related","Drug related(KEGG:D07202)",0
+NA,NA,"LPG 15:0","Unknown",NA,0
+NA,NA,"LPI 16:0","Unknown",NA,0
+"HMDB0000182","C00047","Lysine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:lys__L ChEBI:18019 KEGG:C00047,D02304); Food related(FooDB:FDB000474 HMDB:HMDB0000182 T3DB:T3D4248); Drug related(DrugBank:DB00123 KEGG:C00047,D02304 T3DB:T3D4248); Environment(HMDB:HMDB0000182 T3DB:T3D4248)",0
+"HMDB0000176","C01384","Maleic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:male ChEBI:18300 KEGG:C01384); Food related(FooDB:FDB008113 HMDB:HMDB0000176 T3DB:T3D4800); Drug related(DrugBank:DB04299)",0
+"HMDB0000156","C03668","Malic acid","Microbiota; Food related","Microbiota(BIGG:mal__L ChEBI:15589,30797 HMDB:HMDB0000156 KEGG:C00149); Food related(FooDB:FDB012047 HMDB:HMDB0000156)",0
+"HMDB0001262","C01835","Maltotriose","Microbiota; Food related","Microbiota(BIGG:malttr); Food related(FooDB:FDB001196 HMDB:HMDB0001262)",0
+"HMDB0000765","C00392","Mannitol","Microbiota; Food related; Drug related","Microbiota(BIGG:mnl ChEBI:16899 HMDB:HMDB0000765 KEGG:C00392,D00062); Food related(FooDB:FDB001982 HMDB:HMDB0000765); Drug related(DrugBank:DB00742 KEGG:C00392,D00062)",1
+NA,NA,"Methioninesulfoxide","Unknown",NA,0
+"HMDB0002923","C00252","Methyl-4-hydroxy-3-methoxybenzoate","Host; Microbiota","Microbiota(BIGG:isomal KEGG:C00252,G01318)",1
+"HMDB0000202","C02170","Methylmalonic acid","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C02170); Food related(FooDB:FDB021905 T3DB:T3D4404); Drug related(DrugBank:DB04183)",0
+"HMDB0003254","C06470","Muramic acid","Microbiota; Food related","Microbiota(HMDB:HMDB0003254); Food related(FooDB:FDB023131)",0
+"HMDB0000019","C00141","N-2-Fluorenylacetamide","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:3mob ChEBI:11851,16530 KEGG:C00141); Food related(FooDB:FDB012250 HMDB:HMDB0000019 T3DB:T3D4425); Drug related(DrugBank:DB04074)",0
+"HMDB0000812","C01042","N-Acetylaspartic acid","Host; Microbiota; Food related","Microbiota(KEGG:C01042); Food related(FooDB:FDB022260 T3DB:T3D4310)",0
+"HMDB0000215","C00140","N-Acetyl-D-glucosamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:acgam KEGG:C00140); Food related(FooDB:FDB008032 HMDB:HMDB0000215); Drug related(DrugBank:DB00141)",0
+"HMDB0000215","C00140","N-Acetylglucosamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:acgam KEGG:C00140); Food related(FooDB:FDB008032 HMDB:HMDB0000215); Drug related(DrugBank:DB00141)",0
+"HMDB0001138","C00624","N-Acetylglutamic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:acglu ChEBI:172431,17533,44337 KEGG:C00624); Food related(FooDB:FDB031019); Drug related(DrugBank:DB04075)",0
+"HMDB0000532",NA,"N-Acetylglycine","Food related; Drug related","Food related(FooDB:FDB022100); Drug related(DrugBank:DB02713)",0
+"HMDB0032055","C02997","N-Acetylhistidine","Food related","Food related(FooDB:FDB008762 HMDB:HMDB0032055)",0
+"HMDB0011756","C02710","N-Acetylleucine","Food related; Drug related","Food related(FooDB:FDB028426); Drug related(DrugBank:DB16956)",0
+"HMDB0011745","C02712","N-Acetylmethionine","Food related; Drug related","Food related(FooDB:FDB001089); Drug related(DrugBank:DB01646)",0
+"HMDB0000230","C19910","N-Acetylneuraminic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:acnam); Food related(HMDB:HMDB0000230); Drug related(DrugBank:DB04265)",0
+"HMDB0000512","C03519","N-Acetylphenylalanine","Microbiota; Food related","Microbiota(KEGG:C03519); Food related(FooDB:FDB022084)",0
+"HMDB0002931",NA,"N-Acetylserine","Food related; Drug related","Food related(FooDB:FDB000970 HMDB:HMDB0002931); Drug related(DrugBank:DB02340)",1
+"HMDB0001238","C00978","N-Acetylserotonin","Host; Microbiota; Food related; Drug related","Microbiota(KEGG:C00978); Food related(FooDB:FDB031021 HMDB:HMDB0001238); Drug related(DrugBank:DB04275)",1
+"HMDB0013713",NA,"N-Acetyltryptophan","Food related","Food related(FooDB:FDB111644)",0
+"HMDB0002927","C09789","Naringin","Microbiota; Food related; Drug related","Microbiota(KEGG:C09789); Food related(FooDB:FDB011866 HMDB:HMDB0002927); Drug related(DrugBank:DB16859)",1
+"HMDB0000186","C00243","N-Carbobenzyloxyleucine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:lcts KEGG:C00243); Food related(FooDB:FDB021789 HMDB:HMDB0000186); Drug related(DrugBank:DB04465 KEGG:C00243)",0
+"HMDB0011621",NA,"N-Cinnamoylglycine","Food related","Food related(FooDB:FDB028325)",0
+"HMDB0000206","C02727","N-epsilon-Acetyllysine","Microbiota; Food related","Microbiota(KEGG:C02727); Food related(FooDB:FDB000476 HMDB:HMDB0000206)",0
+"HMDB0002368","C08323","Nervonic acid","Food related","Food related(FooDB:FDB002934 HMDB:HMDB0002368)",0
+"HMDB0240226","D07402","N-Formylmethionine","Drug related","Drug related(DrugBank:DB06282 KEGG:D07402)",0
+"HMDB0001488","C00253","Nicotinic acid","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:nac ChEBI:15940 KEGG:C00253,D00049); Food related(FooDB:FDB001014 HMDB:HMDB0001488 T3DB:T3D2841); Drug related(DrugBank:DB00627 KEGG:C00253,D00049 T3DB:T3D2841); Environment(HMDB:HMDB0001488 T3DB:T3D2841)",0
+"HMDB0000730",NA,"N-Isobutyrylglycine","Food related","Food related(FooDB:FDB022208)",0
+"HMDB0000678",NA,"N-Isovalerylglycine","Food related","Food related(FooDB:FDB022177)",0
+"HMDB0014649","D02486","Nitazoxanide","Drug related","Drug related(DrugBank:DB00507 KEGG:D02486)",0
+"HMDB0014723","C07270","Nizatidine","Drug related","Drug related(KEGG:C07270)",0
+"HMDB0094692","C02721","N-Methylalanine","Unknown",NA,1
+"HMDB0029519","C09762","N-Methylanthranilic acid","Microbiota; Food related; Drug related","Microbiota(ChEBI:28777); Food related(FooDB:FDB000655 HMDB:HMDB0029519); Drug related(DrugBank:DB03601)",0
+"HMDB0062660","C01046","N-Methylglutamic acid","Microbiota","Microbiota(KEGG:C01046)",1
+NA,NA,"N-Methylisoleucine","Unknown",NA,0
+"HMDB0029224",NA,"N-Methylphenylalanine","Unknown",NA,0
+NA,NA,"N-Methylserine","Unknown",NA,0
+NA,NA,"N-Methyltyrosine","Unknown",NA,0
+"HMDB0002005","C02989","N-Methylvaline","Microbiota; Food related","Microbiota(BIGG:metsox_S__L ChEBI:17016 KEGG:C02989); Food related(FooDB:FDB022789 HMDB:HMDB0002005)",0
+"HMDB0000216","C00547","Norepinephrine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:nrpphr HMDB:HMDB0000216 KEGG:C00547,D00076); Food related(FooDB:FDB016812 HMDB:HMDB0000216 T3DB:T3D4154); Drug related(DrugBank:DB00368 KEGG:C00547,D00076 T3DB:T3D4154)",0
+"HMDB0001879","C01405","O-Acetylsalicylic acid","Food related; Drug related; Environment","Food related(FooDB:FDB000894 HMDB:HMDB0001879 T3DB:T3D2936); Drug related(DrugBank:DB00945 KEGG:C01405,D00109 T3DB:T3D2936); Environment(HMDB:HMDB0001879 T3DB:T3D2936)",0
+"HMDB0000782",NA,"Octadecanedioic acid","Food related","Food related(FooDB:FDB022239 HMDB:HMDB0000782)",0
+"HMDB0000207","C00712","Oleic acid","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ocdcea ChEBI:16196 KEGG:C00712,D02315); Food related(FooDB:FDB012858 HMDB:HMDB0000207 T3DB:T3D4802); Drug related(DrugBank:DB04224 KEGG:C00712,D02315); Environment(HMDB:HMDB0000207 T3DB:T3D4802)",0
+"HMDB0014420","D01204","Olmesartan","Drug related","Drug related(DrugBank:DB00275 KEGG:D01204)",0
+"HMDB0001913","C07324","Omeprazole","Food related; Drug related; Environment","Food related(FooDB:FDB021863 T3DB:T3D3524); Drug related(DrugBank:DB00338 KEGG:C07324,D00455 T3DB:T3D3524); Environment(T3DB:T3D3524)",0
+"HMDB0015215","D04028","Orlistat","Microbiota; Drug related","Microbiota(ChEBI:94686); Drug related(DrugBank:DB01083 KEGG:D04028)",0
+"HMDB0000214","C00077","Ornithine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:orn KEGG:C00077,D08302); Food related(FooDB:FDB030969 HMDB:HMDB0000214); Drug related(DrugBank:DB00129 KEGG:C00077,D08302)",0
+"HMDB0000226","C00295","Orotic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:orot ChEBI:16742 KEGG:C00295,D00055); Food related(FooDB:FDB031072 HMDB:HMDB0000226 T3DB:T3D4292); Drug related(DrugBank:DB02262 KEGG:C00295,D00055)",1
+"HMDB0255868","C01118","O-Succinylhomoserine","Microbiota","Microbiota(BIGG:suchms ChEBI:16160 KEGG:C01118)",0
+"HMDB0244967","C02778","Otenzepad","Unknown",NA,0
+"HMDB0015126","C07356","Oxaprozin","Drug related","Drug related(DrugBank:DB00991 KEGG:C07356,D00463)",0
+"HMDB0014980","C07359","Oxazepam","Drug related; Environment","Drug related(DrugBank:DB00842 KEGG:C07359,D00464 T3DB:T3D2909); Environment(HMDB:HMDB0014980 T3DB:T3D2909)",0
+"HMDB0000220","C00249","Palmitic acid","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:hdca ChEBI:15756 KEGG:C00249,D05341); Food related(FooDB:FDB031084 HMDB:HMDB0000220 T3DB:T3D4797); Drug related(DrugBank:DB03796 KEGG:C00249,D05341); Environment(HMDB:HMDB0000220 T3DB:T3D4797)",0
+"HMDB0005017","C11806","Pantoprazole","Food related; Drug related","Food related(FooDB:FDB023589); Drug related(DrugBank:DB00213 KEGG:C11806,D05353)",0
+NA,NA,"PE-Cer 23:3;2O/18:2;O","Unknown",NA,0
+"HMDB0014444","C07417","Penciclovir","Drug related","Drug related(DrugBank:DB00299 KEGG:C07417,D05407)",0
+NA,"C04335","PG O-18:2_11:0","Unknown",NA,0
+"HMDB0006344","C04148","Phenylacetylglutamine","Microbiota; Food related","Microbiota(HMDB:HMDB0006344); Food related(FooDB:FDB023896)",0
+"HMDB0000159","C00079","Phenylalanine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:phe__L ChEBI:17295 KEGG:C00079,D00021); Food related(FooDB:FDB004940 HMDB:HMDB0000159 T3DB:T3D4366); Drug related(DrugBank:DB00120 KEGG:C00079,D00021 T3DB:T3D4366); Environment(HMDB:HMDB0000159 T3DB:T3D4366)",0
+"HMDB0001015","C03145","Phenyl-beta-glucopyranoside","Microbiota; Food related; Drug related","Microbiota(BIGG:fmet HMDB:HMDB0001015); Food related(FooDB:FDB022372); Drug related(DrugBank:DB04464)",0
+"HMDB0003306","C00774","Phloretin","Microbiota; Food related; Drug related","Microbiota(HMDB:HMDB0003306 KEGG:C00774); Food related(FooDB:FDB015553 HMDB:HMDB0003306); Drug related(DrugBank:DB07810)",0
+NA,NA,"Phlorobenzophenone","Unknown",NA,0
+"HMDB0002107","C01606","Phthalic acid","Microbiota; Food related; Drug related","Microbiota(KEGG:C01606); Food related(FooDB:FDB010566 HMDB:HMDB0002107); Drug related(DrugBank:DB02746)",0
+"HMDB0030564","C10275","Piceid","Food related; Drug related","Food related(FooDB:FDB002449 HMDB:HMDB0030564); Drug related(DrugBank:DB11263)",0
+"HMDB0002039","C11118","Pizotifen","Food related","Food related(FooDB:FDB000741 HMDB:HMDB0002039)",0
+"HMDB0000162","C00148","Proline","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:pro__L ChEBI:17203 KEGG:C00148,D00035); Food related(FooDB:FDB000570 HMDB:HMDB0000162 T3DB:T3D4411); Drug related(DrugBank:DB00172 KEGG:C00148,D00035 T3DB:T3D4411); Environment(HMDB:HMDB0000162 T3DB:T3D4411)",0
+"HMDB0006695",NA,"Proline-hydroxyproline","Food related","Food related(FooDB:FDB024028)",0
+"HMDB0000237","C00163","Propionic acid","Host; Microbiota; Food related; Drug related","Microbiota(HMDB:HMDB0000237 KEGG:C00163,D02310); Food related(FooDB:FDB031132 HMDB:HMDB0000237 T3DB:T3D4444); Drug related(DrugBank:DB03766 KEGG:C00163,D02310)",0
+"HMDB0000767","C02067","Pseudouridine","Microbiota; Food related","Microbiota(KEGG:C02067); Food related(FooDB:FDB031139 HMDB:HMDB0000767)",0
+"HMDB0001366","C15587","Purine","Microbiota; Food related","Microbiota(BIGG:purine); Food related(FooDB:FDB007311 HMDB:HMDB0001366)",0
+"HMDB0001431","C00534","Pyridoxamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:pydam ChEBI:16410 KEGG:C00534); Food related(FooDB:FDB021819 HMDB:HMDB0001431); Drug related(DrugBank:DB11673)",0
+"HMDB0000239","C00314","Pyridoxine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:pydxn ChEBI:16709 KEGG:C00314,D08454); Food related(FooDB:FDB000574 HMDB:HMDB0000239 T3DB:T3D2701); Drug related(DrugBank:DB00165 KEGG:C00314,D08454 T3DB:T3D2701); Environment(HMDB:HMDB0000239 T3DB:T3D2701)",0
+"HMDB0000267","C01879","Pyroglutamic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:5oxpro KEGG:C01879); Food related(FooDB:FDB014506 HMDB:HMDB0000267 T3DB:T3D4270); Drug related(DrugBank:DB03088)",1
+"HMDB0004230","C05942","Pyrrole-2-carboxylic acid","Food related; Drug related","Food related(FooDB:FDB023340); Drug related(DrugBank:DB02543)",0
+"HMDB0000243","C00022","Pyruvic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:pyr ChEBI:15361,32816 HMDB:HMDB0000243 KEGG:C00022); Food related(FooDB:FDB031141 HMDB:HMDB0000243 T3DB:T3D4325); Drug related(DrugBank:DB00119 T3DB:T3D4325)",0
+"HMDB0003072","C00296","Quinic acid","Microbiota; Food related","Microbiota(BIGG:quin ChEBI:17521,29751 KEGG:C00296); Food related(HMDB:HMDB0003072)",0
+"HMDB0032609","C03005","Ribose A","Food related","Food related(HMDB:HMDB0032609)",0
+"HMDB0014878","C07937","Riluzole","Drug related; Environment","Drug related(DrugBank:DB00740 KEGG:C07937 T3DB:T3D2875); Environment(T3DB:T3D2875)",0
+"HMDB0000939","C00021","S-Adenosyl-homocysteine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:ahcys ChEBI:16680,181457 KEGG:C00021); Food related(FooDB:FDB031150 HMDB:HMDB0000939 T3DB:T3D4455); Drug related(DrugBank:DB01752)",0
+"HMDB0001895","C00805","Salicylic acid","Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:salc ChEBI:16914,30762 HMDB:HMDB0001895 KEGG:C00805,D00097); Food related(FooDB:FDB031164 HMDB:HMDB0001895 T3DB:T3D4816); Drug related(DrugBank:DB00936 KEGG:C00805,D00097 T3DB:T3D4816); Environment(HMDB:HMDB0001895 T3DB:T3D4816)",0
+"HMDB0000187","C00716","Serine","Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ser__L ChEBI:17115 KEGG:C00065,D00016); Food related(FooDB:FDB012739 HMDB:HMDB0000187 T3DB:T3D4367); Drug related(DrugBank:DB00133 KEGG:C00065,D00016 T3DB:T3D4367); Environment(HMDB:HMDB0000187 T3DB:T3D4367)",0
+"HMDB0029052",NA,"Ser-Val","Food related","Food related(FooDB:FDB112058)",0
+NA,"C11166","Sodium lauryl sulfate","Food related; Drug related; Environment","Food related(FooDB:FDB020359 T3DB:T3D3629); Drug related(DrugBank:DB00815 KEGG:C11166,D01045 T3DB:T3D3629); Environment(T3DB:T3D3629)",0
+"HMDB0001266","C08356","Sorbose","Microbiota; Food related","Microbiota(BIGG:srb__L HMDB:HMDB0001266); Food related(FooDB:FDB001126 HMDB:HMDB0001266)",0
+"HMDB0014787","C07312","Stavudine","Drug related; Environment","Drug related(DrugBank:DB00649 KEGG:C07312,D00445 T3DB:T3D4772); Environment(T3DB:T3D4772)",0
+"HMDB0000258","C00089","Sucrose","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:sucr ChEBI:17992 KEGG:C00089,D00025,G00370); Food related(FooDB:FDB003715 HMDB:HMDB0000258); Drug related(DrugBank:DB02772 KEGG:C00089,D00025,G00370)",0
+"HMDB0002085","C10833","Syringic acid","Microbiota; Food related","Microbiota(ChEBI:68329 HMDB:HMDB0002085 KEGG:C10833); Food related(FooDB:FDB000514 HMDB:HMDB0002085)",0
+"HMDB0000251","C00245","Taurine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:taur ChEBI:15891 KEGG:C00245,D00047); Food related(FooDB:FDB003191 HMDB:HMDB0000251); Drug related(DrugBank:DB01956 KEGG:C00245,D00047)",0
+"HMDB0000036","C05122","Taurocholic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:tchola KEGG:C05122); Food related(FooDB:FDB012335 HMDB:HMDB0000036); Drug related(DrugBank:DB04348)",0
+"HMDB0000943","C01620","Threonic acid","Microbiota; Food related; Drug related","Microbiota(ChEBI:15908,49060 HMDB:HMDB0000943); Food related(FooDB:FDB030975); Drug related(DrugBank:DB11192)",0
+"HMDB0000167","C00188","Threonine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:thr__L ChEBI:16857 KEGG:C00188,D00041); Food related(FooDB:FDB011999 HMDB:HMDB0000167 T3DB:T3D4368); Drug related(DrugBank:DB00156 KEGG:C00188,D00041 T3DB:T3D4368); Environment(HMDB:HMDB0000167 T3DB:T3D4368)",0
+"HMDB0000273","C00214","Thymidine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:thymd ChEBI:17748 KEGG:C00214,D12466); Food related(FooDB:FDB031201 HMDB:HMDB0000273); Drug related(DrugBank:DB04485 KEGG:C00214,D12466)",0
+"HMDB0001227","C00364","Thymidine-5-monophosphate","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:dtmp ChEBI:17013 KEGG:C00364); Food related(FooDB:FDB030840 HMDB:HMDB0001227); Drug related(DrugBank:DB01643)",0
+NA,"D02851","Tomelukast","Drug related","Drug related(KEGG:D02851)",0
+"HMDB0014608","C07062","Toradol","Drug related","Drug related(DrugBank:DB00465 KEGG:C07062,D08104)",0
+"HMDB0014359","D00382","Torasemide","Drug related","Drug related(DrugBank:DB00214 KEGG:D00382)",0
+"HMDB0000158","C00082","Tyrosine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:tyr__L ChEBI:17895 KEGG:C00082,D00022); Food related(FooDB:FDB000446 HMDB:HMDB0000158); Drug related(DrugBank:DB00135 KEGG:C00082,D00022); Environment(HMDB:HMDB0000158)",0
+"HMDB0029117",NA,"Tyr-Tyr","Food related","Food related(FooDB:FDB112120)",0
+"HMDB0000300","C00106","Uracil","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:ura ChEBI:17568 KEGG:C00106,D00027); Food related(FooDB:FDB006426 HMDB:HMDB0000300); Drug related(DrugBank:DB03419 KEGG:C00106,D00027)",0
+"HMDB0000883","C00183","Valine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:val__L ChEBI:16414 KEGG:C00183,D00039); Food related(FooDB:FDB004905 HMDB:HMDB0000883 T3DB:T3D4370); Drug related(DrugBank:DB00161 KEGG:C00183,D00039 T3DB:T3D4370); Environment(HMDB:HMDB0000883)",0
+"HMDB0029140",NA,"Val-Val","Microbiota; Food related","Microbiota(ChEBI:73704); Food related(FooDB:FDB112141)",0
+"HMDB0029134",NA,"Valylphenylalanine","Food related","Food related(FooDB:FDB112136)",0
+"HMDB0000484","C06672","Vanillic acid","Microbiota; Food related; Drug related","Microbiota(BIGG:vanlt ChEBI:16632,30816 HMDB:HMDB0000484 KEGG:C06672); Food related(FooDB:FDB000846 HMDB:HMDB0000484); Drug related(DrugBank:DB02130)",0
+"HMDB0012308","C00755","Vanillin","Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:vanln ChEBI:18346 KEGG:C00755,D00091); Food related(FooDB:FDB000838 HMDB:HMDB0012308 T3DB:T3D4849); Drug related(KEGG:C00755,D00091); Environment(HMDB:HMDB0012308 T3DB:T3D4849)",0
+"HMDB0015000","D08668","Vardenafil","Drug related","Drug related(DrugBank:DB00862 KEGG:D08668)",0
+"HMDB0014681","C07204","Vincristine","Drug related; Environment","Drug related(DrugBank:DB00541 KEGG:C07204,D08679 T3DB:T3D4016); Environment(T3DB:T3D4016)",0
+"HMDB0259858","C01460","Vitexin","Food related","Food related(FooDB:FDB002501)",0
+NA,"C03584","Willardiine","Drug related","Drug related(DrugBank:DB04129)",0
+"HMDB0000292","C00385","Xanthine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:xan ChEBI:17712,48517 KEGG:C00385); Food related(FooDB:FDB001977 HMDB:HMDB0000292 T3DB:T3D4409); Drug related(DrugBank:DB02134)",0
+"HMDB0000299","C01762","Xanthosine","Host; Microbiota; Food related","Microbiota(BIGG:xtsn ChEBI:18107 KEGG:C01762); Food related(FooDB:FDB001604 HMDB:HMDB0000299)",0
+"HMDB0000098","C00181","Xylose","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:xyl__D ChEBI:15936,53455 KEGG:C00181,D06346); Food related(FooDB:FDB005944 HMDB:HMDB0000098 T3DB:T3D4926); Drug related(DrugBank:DB09419 KEGG:C00181,D06346); Environment(HMDB:HMDB0000098)",0
+"HMDB0032702","C14752","Zeranol","Food related; Drug related","Food related(HMDB:HMDB0032702 T3DB:T3D3675); Drug related(DrugBank:DB11478 KEGG:C14752,D06362)",0
+"HMDB0000244","C00255","Riboflavin","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ribflv ChEBI:17015 KEGG:C00255,D00050); Food related(FooDB:FDB012160 HMDB:HMDB0000244 T3DB:T3D4817); Drug related(DrugBank:DB00140 KEGG:C00255,D00050 T3DB:T3D4817); Environment(HMDB:HMDB0000244)",0
+NA,NA,"1-(Benzo[d[1,3dioxol-4-yl)-2-(ethylamino)propan-1-one","Unknown",NA,0
+"HMDB0002322","C01672","1,5-Pentanediamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:15dap ChEBI:18127 HMDB:HMDB0002322 KEGG:C01672); Food related(FooDB:FDB001493 HMDB:HMDB0002322); Drug related(DrugBank:DB03854)",1
+NA,NA,"1-Hexadecylpyridinium cation","Unknown",NA,0
+"HMDB0011503",NA,"1-palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine","Microbiota; Food related","Microbiota(BIGG:1agpe160); Food related(FooDB:FDB028219 HMDB:HMDB0011503)",0
+"HMDB0010384","C04230","1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine","Host; Microbiota; Food related","Microbiota(KEGG:C04230); Food related(FooDB:FDB027535 HMDB:HMDB0010384)",0
+"HMDB0000071","C05512","2-Deoxyinosine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:din ChEBI:28997 KEGG:C05512); Food related(FooDB:FDB012323 HMDB:HMDB0000071); Drug related(DrugBank:DB02380)",0
+NA,NA,"3-(Hydroxymethyl)-6,7-dimethylquinolin-2-ol","Unknown",NA,0
+NA,NA,"4-Hydroxyquinoline-2-carbaldehyde","Unknown",NA,0
+"HMDB0032985","C04294","4-Methyl-5-thiazoleethanol","Microbiota; Food related; Drug related","Microbiota(BIGG:4mhetz ChEBI:17957 KEGG:C04294); Food related(FooDB:FDB030512 HMDB:HMDB0032985); Drug related(DrugBank:DB02969)",0
+"HMDB0039353","C10796","alpha-Chaconine","Food related","Food related(FooDB:FDB018909 HMDB:HMDB0039353 T3DB:T3D4050)",0
+"HMDB0028713",NA,"Arg-Leu","Food related","Food related(FooDB:FDB111770)",0
+NA,NA,"Benzyldimethyltetradecylammonium cation","Unknown",NA,0
+"HMDB0000619","C00695","Cholic Acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:cholate KEGG:C00695,D10699); Food related(FooDB:FDB012810 HMDB:HMDB0000619 T3DB:T3D4343); Drug related(DrugBank:DB02659 KEGG:C00695,D10699)",0
+"HMDB0000097","C00114","Choline cation","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:chol ChEBI:15354 KEGG:C00114,D07690); Food related(FooDB:FDB000710 HMDB:HMDB0000097); Drug related(DrugBank:DB00122 KEGG:C00114,D07690)",0
+"HMDB0005038","C07572","Citalopram","Host; Food related; Drug related; Environment","Food related(FooDB:FDB023605 T3DB:T3D2715); Drug related(DrugBank:DB00215 KEGG:C07572,D07704 T3DB:T3D2715); Environment(HMDB:HMDB0005038 T3DB:T3D2715)",0
+"HMDB0031404","C00571","Cyclohexylamine","Food related","Food related(FooDB:FDB003478 HMDB:HMDB0031404)",0
+NA,NA,"D-erythro-N-stearoylsphingosine","Unknown",NA,0
+"HMDB0015102","D03693","Desloratadine","Drug related; Environment","Drug related(DrugBank:DB00967 KEGG:D03693 T3DB:T3D4557); Environment(T3DB:T3D4557)",1
+"HMDB0000579",NA,"Deuteroporphyrin IX","Food related","Food related(FooDB:FDB022126)",0
+NA,NA,"Ethylhexadecyldimethylammonium cation","Unknown",NA,0
+NA,NA,"Eutylone","Unknown",NA,0
+"HMDB0028800",NA,"Gln-Ile","Food related","Food related(FooDB:FDB111848)",0
+"HMDB0028844",NA,"Gly-Ile","Food related","Food related(FooDB:FDB098410)",0
+"HMDB0028854",NA,"Gly-Val","Food related","Food related(FooDB:FDB111886)",0
+"HMDB0001842","C17349","Guanidine","Food related; Drug related","Food related(FooDB:FDB005416 HMDB:HMDB0001842 T3DB:T3D4172); Drug related(DrugBank:DB00536 T3DB:T3D4172)",0
+"HMDB0000668",NA,"Hematoporphyrin","Food related","Food related(FooDB:FDB022173)",0
+NA,"C03097","Heptadecasphinganine","Unknown",NA,0
+"HMDB0000870","C00388","Histamine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:hista HMDB:HMDB0000870 KEGG:C00388,D08040); Food related(FooDB:FDB012596 HMDB:HMDB0000870); Drug related(DrugBank:DB05381 KEGG:C00388,D08040); Environment(HMDB:HMDB0000870)",0
+NA,"C06356","Indole-6-carboxaldehyde","Unknown",NA,0
+"HMDB0256623","D05523","Lidocaine-N-Oxide","Drug related","Drug related(DrugBank:DB06153 KEGG:D05523)",0
+"HMDB0000172","C00407","L-Isoleucine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:ile__L ChEBI:17191 KEGG:C00407,D00065); Food related(FooDB:FDB012397 HMDB:HMDB0000172 T3DB:T3D4364); Drug related(DrugBank:DB00167 KEGG:C00407,D00065 T3DB:T3D4364); Environment(HMDB:HMDB0000172 T3DB:T3D4364)",0
+"HMDB0000761","C03990","Lithocholic acid","Food related","Food related(FooDB:FDB022230 HMDB:HMDB0000761 T3DB:T3D4963)",0
+"HMDB0000159","C00079","L-Phenylalanine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:phe__L ChEBI:17295 KEGG:C00079,D00021); Food related(FooDB:FDB004940 HMDB:HMDB0000159 T3DB:T3D4366); Drug related(DrugBank:DB00120 KEGG:C00079,D00021 T3DB:T3D4366); Environment(HMDB:HMDB0000159 T3DB:T3D4366)",0
+"HMDB0000158","C00082","L-Tyrosine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:tyr__L ChEBI:17895 KEGG:C00082,D00022); Food related(FooDB:FDB000446 HMDB:HMDB0000158); Drug related(DrugBank:DB00135 KEGG:C00082,D00022); Environment(HMDB:HMDB0000158)",0
+"HMDB0000883","C00183","L-Valine","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:val__L ChEBI:16414 KEGG:C00183,D00039); Food related(FooDB:FDB004905 HMDB:HMDB0000883 T3DB:T3D4370); Drug related(DrugBank:DB00161 KEGG:C00183,D00039 T3DB:T3D4370); Environment(HMDB:HMDB0000883)",0
+"HMDB0037138","C00897","Maltose","Microbiota; Food related","Microbiota(BIGG:malt); Food related(FooDB:FDB016133 HMDB:HMDB0037138)",0
+"HMDB0002379",NA,"Mesoporphyrin IX","Food related","Food related(FooDB:FDB022986)",0
+"HMDB0001921","C07151","Metformin","Food related; Drug related; Environment","Food related(FooDB:FDB022739 T3DB:T3D3522); Drug related(DrugBank:DB00331 KEGG:C07151,D04966 T3DB:T3D3522); Environment(HMDB:HMDB0001921 T3DB:T3D3522)",0
+"HMDB0000696","C00073","Methionine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:met__L ChEBI:16643 KEGG:C00073,D00019); Food related(FooDB:FDB012683 HMDB:HMDB0000696); Drug related(DrugBank:DB00134 KEGG:C00073,D00019)",0
+"HMDB0001020","C02846","N,N-Dimethylaniline","Food related","Food related(FooDB:FDB005128 HMDB:HMDB0001020)",0
+NA,"C18956","N-Acetyldihydrosphingosine","Unknown",NA,1
+"HMDB0001488","C00253","Nicotinate","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:nac ChEBI:15940 KEGG:C00253,D00049); Food related(FooDB:FDB001014 HMDB:HMDB0001488 T3DB:T3D2841); Drug related(DrugBank:DB00627 KEGG:C00253,D00049 T3DB:T3D2841); Environment(HMDB:HMDB0001488 T3DB:T3D2841)",0
+NA,"C06338","N-Methyl-2-pyrrolidone","Drug related","Drug related(DrugBank:DB04745)",0
+"HMDB0003633","C02442","N-Methyltyramine","Microbiota; Food related","Microbiota(BIGG:C02442); Food related(FooDB:FDB000435 HMDB:HMDB0003633)",0
+"HMDB0029586",NA,"n-Octadecylamine","Food related","Food related(HMDB:HMDB0029586)",0
+"HMDB0060540",NA,"Norverapamil","Unknown",NA,0
+"HMDB0240311","C06342","O-Benzyl-L-serine","Unknown",NA,0
+"HMDB0000222","C02990","Palmitoyl-L-carnitine","Host; Microbiota; Food related","Microbiota(KEGG:C02990); Food related(FooDB:FDB021910 HMDB:HMDB0000222)",0
+"HMDB0000210","C00864","Pantothenic acid","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:pnto__R ChEBI:46905,7916 KEGG:C00864,D07413); Food related(FooDB:FDB030151 HMDB:HMDB0000210); Drug related(DrugBank:DB01783 KEGG:C00864,D07413)",0
+"HMDB0256205","C10830","Peimine","Unknown",NA,0
+"HMDB0012275","C05332","Phenylethylamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:peamn ChEBI:18397 HMDB:HMDB0012275 KEGG:C05332); Food related(FooDB:FDB010580 HMDB:HMDB0012275); Drug related(DrugBank:DB04325)",0
+"HMDB0029377","C03882","Piperine","Microbiota; Food related; Drug related","Microbiota(ChEBI:28821); Food related(FooDB:FDB000449 HMDB:HMDB0029377); Drug related(DrugBank:DB12582)",0
+NA,"C18956","Promecarb","Unknown",NA,0
+NA,"C11166","Quinolin-2-ol","Food related; Drug related; Environment","Food related(FooDB:FDB020359 T3DB:T3D3629); Drug related(DrugBank:DB00815 KEGG:C11166,D01045 T3DB:T3D3629); Environment(T3DB:T3D3629)",0
+NA,NA,"Quinoline-2,6-diol","Unknown",NA,0
+NA,"D02851","Quinoline-2,8-diol","Drug related","Drug related(KEGG:D02851)",0
+NA,NA,"Roquefortine A","Unknown",NA,0
+"HMDB0005010","C07246","Sertraline","Food related; Drug related; Environment","Food related(FooDB:FDB023583 T3DB:T3D2985); Drug related(DrugBank:DB01104 KEGG:C07246,D02360 T3DB:T3D2985); Environment(T3DB:T3D2985)",0
+"HMDB0003236","C06543","Solanidine","Food related","Food related(FooDB:FDB012098 HMDB:HMDB0003236)",0
+"HMDB0013078",NA,"Stearoyl ethanolamide","Food related","Food related(FooDB:FDB029286 HMDB:HMDB0013078)",0
+"HMDB0301980","C01460","TAG 39:3","Food related; Drug related","Food related(FooDB:FDB001706); Drug related(DrugBank:DB16836)",0
+"HMDB0001889","C07130","Theophylline","Microbiota; Food related; Drug related; Environment","Microbiota(ChEBI:28177 KEGG:C07130,D00371); Food related(FooDB:FDB000453 HMDB:HMDB0001889 T3DB:T3D4780); Drug related(DrugBank:DB00277 KEGG:C07130,D00371 T3DB:T3D4780); Environment(T3DB:T3D4780)",0
+"HMDB0029065",NA,"Thr-Leu","Food related","Food related(FooDB:FDB112071)",0
+"HMDB0034731","C10826","Tomatidine","Food related","Food related(FooDB:FDB013270 HMDB:HMDB0034731)",0
+"HMDB0030388","C16431","trans-Zeatin","Food related","Food related(FooDB:FDB002240 HMDB:HMDB0030388)",1
+"HMDB0259220","C03584","Trihydroxycholestanoic acid","Drug related","Drug related(DrugBank:DB04129)",0
+"HMDB0000303","C00398","Tryptamine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:trypta KEGG:C00398); Food related(FooDB:FDB000917); Drug related(DrugBank:DB08653)",0
+"HMDB0000929","C00078","Tryptophan","Host; Microbiota; Food related; Drug related; Environment","Microbiota(BIGG:trp__L ChEBI:16828 KEGG:C00078,D00020); Food related(FooDB:FDB002250 HMDB:HMDB0000929 T3DB:T3D4369); Drug related(DrugBank:DB00150 KEGG:C00078,D00020 T3DB:T3D4369); Environment(HMDB:HMDB0000929)",0
+"HMDB0000306","C00483","Tyramine","Host; Microbiota; Food related; Drug related","Microbiota(BIGG:tym ChEBI:15760 HMDB:HMDB0000306 KEGG:C00483); Food related(HMDB:HMDB0000306 T3DB:T3D4435); Drug related(DrugBank:DB08841)",0

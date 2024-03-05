@@ -1,0 +1,8 @@
+"Name","FC","Pvalue","FDR","TestMethod","Paired"
+"Verrucomicrobia",Inf,0.0815490509839552,0.570843356887687,"Mann每Whitney U test","No"
+"Firmicutes",0.965969992183722,0.216369308816369,0.753910745575729,"Mann每Whitney U test","No"
+"Bacteroidetes",1.00779596525252,0.478020268661401,0.753910745575729,"Mann每Whitney U test","No"
+"Actinobacteria",0.992255752543884,0.553002294076828,0.753910745575729,"Mann每Whitney U test","No"
+"Proteobacteria",1.01741807414519,0.553002294076828,0.753910745575729,"Mann每Whitney U test","No"
+"Euryarchaeota",NA,0.688767663096588,0.753910745575729,"Mann每Whitney U test","No"
+"Synergistetes",NA,0.753910745575729,0.753910745575729,"Mann每Whitney U test","No"
